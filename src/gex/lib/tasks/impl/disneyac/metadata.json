@@ -5,8 +5,8 @@
                 "filename": "capcom_disney_afternoon.exe",
                 "versions": {
                     "Steam": {
-                        "crc": "6F75A8A1",
-                        "size": 11639296
+                        "crc": "D92A4A3E",
+                        "size": 11840544
                     }
                 }
             }
@@ -26,7 +26,7 @@
                     "size": 262160
                 },
                 "sections": {
-                    "prg": {"start": "0x7F2F30", "length": "0x40000"}
+                    "prg": {"start": "0x7F3EC0", "length": "0x40000"}
                 },
                 "header": "4E45531A081010000000000000000000"
             },
@@ -42,7 +42,7 @@
                     "size": 262160
                 },
                 "sections": {
-                    "prg": {"start": "0x832F30", "length": "0x40000"}
+                    "prg": {"start": "0x833EC0", "length": "0x40000"}
                 },
                 "header": "4E45531A081010000000000000000000"
             },
@@ -54,12 +54,12 @@
                 "notes": [],
                 "verify": {
                     "type": "crc",
-                    "crc": "A8D3A5F9",
+                    "crc": "8074C9E8",
                     "size": 262160
                 },
                 "sections": {
-                    "prg": {"start": "0x792F30", "length": "0x20000"},
-                    "cha": {"start": "0x772F30", "length": "0x20000"}
+                    "prg": {"start": "0x793EC0", "length": "0x20000"},
+                    "cha": {"start": "0x773EC0", "length": "0x20000"}
                 },
                 "header": "4E45531A081010000000000000000000"
             },
@@ -75,7 +75,7 @@
                     "size": 131088
                 },
                 "sections": {
-                    "prg": {"start": "0x7B2F30", "length": "0x20000"}
+                    "prg": {"start": "0x7B3EC0", "length": "0x20000"}
                 },
                 "header": "4E45531A080021000000000000000000"
             },
@@ -91,7 +91,7 @@
                     "size": 131088
                 },
                 "sections": {
-                    "prg": {"start": "0x7D2F30", "length": "0x20000"}
+                    "prg": {"start": "0x7D3EC0", "length": "0x20000"}
                 },
                 "header": "4E45531A080021000000000000000000"
             },
@@ -107,7 +107,7 @@
                     "size": 262160
                 },
                 "sections": {
-                    "prg": {"start": "0x872F30", "length": "0x40000"}
+                    "prg": {"start": "0x873EC0", "length": "0x40000"}
                 },
                 "header": "4E45531A081010000000000000000000"
             }
